@@ -73,6 +73,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ## STM 32 CUBE PROGRAM :
 
 NAME: V. POOJAA SREE
+
 REG. NO.: 212223040147
 
 ```
@@ -312,16 +313,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
-
 ## Output screen shots of proteus  :
+![ex 3 img 1](https://github.com/user-attachments/assets/e60d70bc-79bf-4641-987c-6b72b7c8c428)
 
 
 
+## Proteus layout(Add pdf screen shot of circuit here) :
+![op](https://github.com/user-attachments/assets/ea4e5b76-4dac-40db-8013-f3a5ab2aaf32)
 
-## Proteus layout(Add pdf screen shot of circuit here)
  
- 
- 
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
